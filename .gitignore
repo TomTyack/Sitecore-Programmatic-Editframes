@@ -1,0 +1,6 @@
+/.vs/Sitecore.Editing/v15/*.suo
+/packages
+/src/Foundation/Editing/code/obj
+/src/Foundation/Editing/code/bin
+/src/Foundation/Editing/code/*.user
+/.vs
